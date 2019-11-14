@@ -45,10 +45,30 @@ ul.nav li.active a {
     background-color:white;
 }
 
+form {
+    margin:10px;
+}
+
+button {
+   color:rgb(14, 136, 136);
+}
+
+.imagewrapper {
+    position:absolute;
+    z-index:5;
+    margin-top:90px;
+    text-align:center;
+   left:15px;
+   background-color:rgb(14, 136, 136);
+   color:white;
+   width:33%;
+}
+
 footer {
     background-color:gray;
     height:60px;
     border-top:10px solid rgb(14, 136, 136);
+    color:white;
 }
 
 
