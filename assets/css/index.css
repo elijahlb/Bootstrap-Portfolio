@@ -4,8 +4,7 @@
     position:relative;
     float:right;
     left:30%;
-    color:black;
-    
+    color:black;   
 }
 
 body {
@@ -66,7 +65,7 @@ button {
 
 footer {
     background-color:gray;
-    height:60px;
+    height:40px;
     border-top:10px solid rgb(14, 136, 136);
     color:white;
 }
