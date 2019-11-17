@@ -24,6 +24,9 @@ body {
 #myface {
     padding-right:5px;
 }
+p{
+    line-height:2;
+}
 
 
 ul li {
