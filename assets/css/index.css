@@ -27,7 +27,6 @@ body {
 
 
 ul li {
-    border-right: 2px solid gray;
     color:gray;
 }
 ul.nav li a, ul.nav li a:visited {
@@ -69,6 +68,22 @@ footer {
     border-top:10px solid rgb(14, 136, 136);
     color:white;
 }
+
+@media only screen and (max-width: 640px) {
+    #name {
+        width:600px;
+        text-align:center;
+    }
+    nav {
+        margin-left:-45px;
+    }
+    img {
+        margin-bottom:5px;
+    }
+}
+
+
+
 
 
 
